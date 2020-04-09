@@ -1,0 +1,34 @@
+
+ .footer_social {
+    /*float: right;*/
+    width: 300px;
+    margin-bottom: 0px;
+}
+ .link-fb{
+    display: inline-block;
+    color: #1a1a1a;
+    margin-left: 13px;
+    line-height: 17px;
+    background: url(../img/icons/footer_social.png) 0 0 no-repeat;
+    padding-left: 23px;
+}
+.foot{
+	padding-top:20px;
+	padding-bottom: 0px;
+}
+.link-twitter{
+
+    display: inline-block;
+    color: #1a1a1a;
+    margin-left: 13px;
+    line-height: 17px;
+    background: url(../img/icons/footer_social.png) 0 0 no-repeat;
+    padding-left: 23px;
+    background-position: 0 -54px;
+}
+.last-line{
+    padding: 0px 10px 10px 20px;
+}
+.jean{
+    background-image: url(../img/clients/jean.gif) 0 0 no-repeat;
+}
